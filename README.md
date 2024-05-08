@@ -3,13 +3,13 @@
 
 - 🔭 I’ve currently worked on **Deepfake Detection as my college level major project.**
 
-- 🌱 I’m currently working on **Pythoon,Html, Css, Sql, and cloud Technologies.**
+- 🌱 I’m currently working on **Javascript, Python , Html , Css, Sql, and Cloud Technologies.**
 
 - 👯 I’m looking to collaborate on **Open source projects.**
 
 - 🤝 I’m looking for help with **finding a stable job that will provide me security.**
 
-- 💬 Ask me about **Python,Html,Css,SQL.**
+- 💬 Ask me about **Javascript,Python(Basics),Html,Css,SQL.**
 
 - 📫 How to reach me **priyanshuk6299@gmail.com**
 
