@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **priyanshuk6299@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OKppRA9sn2Dtiyaq3vEDMt3FisemuBOl/view?usp=drive_link](https://drive.google.com/file/d/1OKppRA9sn2Dtiyaq3vEDMt3FisemuBOl/view?usp=drive_link)
+- 📄 Know about my experiences **https://drive.google.com/file/d/1jGTnc74kWDcLmvD1qmH0v3Jn58z1_I0c/view?usp=drive_link**
 
 - ⚡ Fun fact **I think I am lovable and funny.**
 
