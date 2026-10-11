@@ -3,7 +3,7 @@
 
 - 🔭 I’ve currently worked on **Deepfake Detection as my college level major project.**
 
-- 🌱 I’m currently working on **Javascript, React.js , Node.js ,Express.js, HTML , CSS, SQL, and Cloud Technologies.**
+- 🌱 I’m currently working on **Javascript, React.js , Node.js ,Express.js, HTML , CSS, SQL, and MongoDB.**
 
 - 👯 I’m looking to collaborate on **Open source projects.**
 
